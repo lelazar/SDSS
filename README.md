@@ -31,12 +31,21 @@ Talán az alábbi honlap segítségével? https://skyserver.sdss.org/dr16/en/hel
 
 
 Felhasznált weblapok és tutorial-ok:
+
 https://www.sdss4.org/
+
 https://classic.sdss.org/
+
 https://astrodatascience.net/category/sdss/
+
 https://pypi.org/project/sdss/
+
 https://www.sdss4.org/dr16/irspec/catalogs/
+
 https://skyserver.sdss.org/dr18/SearchTools/IQS
+
 https://www.sdss4.org/dr17/tutorials/retrievefits/
+
 http://burro.case.edu/Academics/Astr306/ClustAGN/getSDSS.html
+
 https://skyserver.sdss.org/dr16/en/home.aspx
